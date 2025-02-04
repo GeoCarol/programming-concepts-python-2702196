@@ -6,3 +6,4 @@ print('Cooking the first side')
 print('Flipping it!')
 print('Cooking the other side\n')
 omelette = 'a tasty omelette'
+print (omelette)
